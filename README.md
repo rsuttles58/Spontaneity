@@ -5,6 +5,8 @@
 ## How it Works
 *Spontaneity* allows a user to enter a travel destination and a date to search locations.  Upon submitting, the user will be provided date-specific information on their potential destination.  Information includes location-specific weather forecasts, events occurring during the time period that they will be at the destination, as well as a list of some of the best restaurants at your destination. 
 
+## Link to Deployed Project
+[Spontaneity](https://jquest92.github.io/project1/)
 ---
 
 **Technologies Utilized**
